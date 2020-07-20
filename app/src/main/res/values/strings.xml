@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sqllit</string>
+    <string name="username">Enter Username here</string>
+    <string name="password">Enter password here</string>
+    <string name="view_data">view </string>
+    <string name="add_user">add_</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+</resources>
